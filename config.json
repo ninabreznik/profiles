@@ -1,20 +1,20 @@
 {
-  'username': 'ninabreznik',
-  'projects': [
-    'http://www.refugeeswork.com',
-    'http://www.wizardamigos.com',
-    'http://fairydust.agency'
+  "username": "ninabreznik",
+  "projects": [
+    "http://www.refugeeswork.com",
+    "http://www.wizardamigos.com",
+    "http://fairydust.agency"
   ],
-  'background': [
-    'Javascript',
-   'Entrepreneurship',
-    'Community building'
+  "background": [
+    "Javascript",
+   "Entrepreneurship",
+    "Community building"
   ],
-  'interests': [
-    'p2p web',
-    'self employment',
-    'javascript',
-    'blockchain'
+  "interests": [
+    "p2p web",
+    "self employment",
+    "javascript",
+    "blockchain"
   ],
-  'github': 'https://github.com/ninabreznik'
+  "github": "https://github.com/ninabreznik"
 }
